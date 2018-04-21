@@ -1,0 +1,10 @@
+.\objects\gpio.o: Souces\GPIO.c
+.\objects\gpio.o: .\Headers\GPIO.h
+.\objects\gpio.o: .\Headers\derivative.h
+.\objects\gpio.o: D:\Keil_v5\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
+.\objects\gpio.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gpio.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\gpio.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\gpio.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\gpio.o: D:\Keil_v5\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h
+.\objects\gpio.o: .\Headers\typedefs.h

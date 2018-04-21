@@ -1,0 +1,13 @@
+.\objects\motor_strategy.o: Souces\motor_strategy.c
+.\objects\motor_strategy.o: .\Headers\motor_strategy.h
+.\objects\motor_strategy.o: .\Headers\derivative.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\system_SKEAZ1284.h
+.\objects\motor_strategy.o: .\Headers\typedefs.h
+.\objects\motor_strategy.o: .\Headers\FTM.h
+.\objects\motor_strategy.o: .\Headers\derivative.h
+.\objects\motor_strategy.o: D:\Keil_v5\ARM\PACK\Keil\Kinetis_KEAxx_DFP\1.3.0\Device\Include\SKEAZ1284.h
